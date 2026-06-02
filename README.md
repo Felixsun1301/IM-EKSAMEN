@@ -3,7 +3,7 @@
 Et nettbasert bookingsystem for frisørsalong der kunder kan booke time på nett.
 
 ## Om prosjektet
-FX Studios er en frisørsalong som trenger en enkel måte for kunder å booke time på nett. Brukeren velger dato og tid, fyller inn kontaktinfo og får en bekreftelse på bookingen.
+FX Studios er en frisørsalong som trenger en enkel måte for kunder å booke time på nett. Brukeren velger dato og tid, fyller inn kontaktinfo og får en bekreftelse på bookingen. Applikasjonen er bygget opp med flask som backend og henter bookingdata fra en mariadb database.
 
 ## Teknologier brukt
 - HTML
@@ -33,6 +33,9 @@ Bruker → Frontend (HTML/CSS) → Backend (Flask) → Database (MariaDB) → Be
 
 ## Hva jeg har tenkt å gjøre på eksamen
 - Vise frem prosjektet mitt: Åpne nettsiden i nettleser fra en annen maskin på nettverket
-- Clone prosjektet ned på raspberry Pi 
+- Clone prosjektet ned på raspberry Pi
 - installere nødvendige pakker i en requirements.txt. 
+
+## Kildeliste:
+
 
