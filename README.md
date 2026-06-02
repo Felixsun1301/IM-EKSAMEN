@@ -27,11 +27,12 @@ Bruker → Frontend (HTML/CSS) → Backend (Flask) → Database (MariaDB) → Be
 - GDPR: brukeren informeres om hva dataene brukes til, data deles ikke med tredjeparter
 
 ## Videre utvikling
-- Innlogging for administrator
 - E-postbekreftelse til kunde
 - Avbestilling og endring av booking
-- lage en forside med før bookingsiden
+- lage en forside før bookingsiden, ha dermed FAQ og admin innlogging der.
 
 ## Hva jeg har tenkt å gjøre på eksamen
-Vise frem prosjektet mitt
+Vise frem prosjektet mitt: Åpne nettsiden i nettleser fra en annen maskin på nettverket
+clone prosjektet ned på raspberry Pi 
+installere nødvendige pakker i en requirements.txt. 
 
