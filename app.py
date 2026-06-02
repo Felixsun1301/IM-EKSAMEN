@@ -10,13 +10,17 @@ def get_db():
         password="Fx23",
         database="fxstudios"
     )
+
+@app.route("/")
+def index():
+    return render_template("index.html")
          
 
 @app.route("/booktime")
 def booktime():
     return render_template("booktime.html")
 
-@app.route("/book", methods=["POST"])
+@app.route("/book", methods=["POST"])   
 def book():
     navn = request.form.get("navn")
     telefon = request.form.get("telefon")
