@@ -16,6 +16,8 @@ FX Studios er en frisørsalong som trenger en enkel måte for kunder å booke ti
 - Velg dato og tid
 - Fyll inn navn, telefon og e-post
 - Bekreftelsesside med oppsummering
+- FAQ-side
+- Sletting av info ved bruk av e-post
 
 ## Systemflyt
 Bruker → Frontend (HTML/CSS) → Backend (Flask) → Database (MariaDB) → Bekreftelse til bruker
@@ -28,4 +30,8 @@ Bruker → Frontend (HTML/CSS) → Backend (Flask) → Database (MariaDB) → Be
 - Innlogging for administrator
 - E-postbekreftelse til kunde
 - Avbestilling og endring av booking
+- lage en forside med før bookingsiden
+
+## Hva jeg har tenkt å gjøre på eksamen
+Vise frem prosjektet mitt
 
