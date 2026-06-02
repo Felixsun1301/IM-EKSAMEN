@@ -32,7 +32,7 @@ Bruker → Frontend (HTML/CSS) → Backend (Flask) → Database (MariaDB) → Be
 - lage en forside før bookingsiden, ha dermed FAQ og admin innlogging der.
 
 ## Hva jeg har tenkt å gjøre på eksamen
-Vise frem prosjektet mitt: Åpne nettsiden i nettleser fra en annen maskin på nettverket
-clone prosjektet ned på raspberry Pi 
-installere nødvendige pakker i en requirements.txt. 
+- Vise frem prosjektet mitt: Åpne nettsiden i nettleser fra en annen maskin på nettverket
+- Clone prosjektet ned på raspberry Pi 
+- installere nødvendige pakker i en requirements.txt. 
 
