@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 def get_db():
     return mariadb.connect(
-        host="10.200.14.27",
+        host="192.168.1.209", # Endre tilbake til 10.200.14.27 på eksamen
         user="Fxwindows1", 
         password="Fx23",
         database="fxstudios"

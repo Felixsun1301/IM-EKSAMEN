@@ -37,5 +37,5 @@ Bruker → Frontend (HTML/CSS) → Backend (Flask) → Database (MariaDB) → Be
 - installere nødvendige pakker i en requirements.txt. 
 
 ## Kildeliste:
-
+https://www.geeksforgeeks.org/python/template-inheritance-in-flask/ - Kilde for {% extends "index.html" %} brukt på html sidene
 
