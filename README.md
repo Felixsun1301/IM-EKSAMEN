@@ -1,4 +1,4 @@
-Prosjektbeskrivelse og dokumentasjon
+# Prosjektbeskrivelse og dokumentasjon
 Prosjekttittel: FX Studios - Bookingsystem for frisorsalong
 Kandidat: Felix Sun
 
